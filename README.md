@@ -12,5 +12,5 @@ I'm a self-taught developer who loves building full stack projects with React, T
 #### 💃 When I'm not coding you can find me:
 
 * _Playing Animal Crossing_ 🍃
-* _Sewing, drawing, or painting_ 🎨🧵
-* _Exploring the great outdoors_ 🌄
+* _Sewing, drawing, painting, macrame-ing, or creating in some other medium!_ 🎨🧵
+* _Walking, hiking, missing the mountains_ 🌄
