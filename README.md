@@ -6,7 +6,7 @@ I'm a self-taught developer who loves building full stack projects with React, T
 
 #### 🛠 My most recent projects are:
 
-- [Coin Tracker](https://cointracker.me/) [ [Front end](https://github.com/alicenstar/coin-tracker-3-client) / [Back end](https://github.com/alicenstar/coin-tracker-3-api) ]
+- [Coin Tracker](https://cointracker.me/) [ [Front end](https://github.com/alicenstar/coin-tracker-client) / [Back end](https://github.com/alicenstar/coin-tracker-api) ]
 - [GitHub User Search](https://github.com/alicenstar/gh-user-search)
 
 #### 💃 When I'm not coding you can find me:
