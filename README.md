@@ -1,8 +1,8 @@
 # Hi, I’m Star! 👋👩‍💻
 
-I'm a self-taught developer who loves building full stack projects with React, TypeScript/JavaScript, Python, and Django. Currently looking for my first development job and to contribute to more open source projects!
+I'm a self-taught software engineer who loves building full stack projects with React, NextJS, Tailwind, TypeScript, and GraphQL.
 
-#### 📚 I’m currently working on adding new features to my projects.✨
+#### 📚 I’m currently working on slowly revamping my project, Coin Tracker.✨
 
 #### 🛠 My most recent projects are:
 
