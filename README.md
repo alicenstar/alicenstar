@@ -1,6 +1,6 @@
 # Hi, I’m Star! 👋👩‍💻
 
-I'm a self-taught software engineer who loves building full stack projects with React, NextJS, Tailwind, TypeScript, and GraphQL.
+I'm a self-taught software engineer who builds with React, and occasionally does back end work. ⚛ Currently doing frontend work related to Kubernetes! ⎈
 
 #### 📚 I’m currently working on slowly revamping my project, Coin Tracker.✨
 
