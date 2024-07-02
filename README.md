@@ -9,6 +9,6 @@ I'm a self-taught software engineer who builds with React, and occasionally does
 
 #### 💃 When I'm not coding you can find me:
 
-* _Teaching my dogs new tricks 🐾 
+* _Teaching my dogs new tricks_ 🐾 
 * _Walking, hiking, missing the mountains_ 🌄
 * _Playing Animal Crossing_ 🍃
