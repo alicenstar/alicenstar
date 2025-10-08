@@ -1,6 +1,6 @@
 # Hi, I’m Star! 👋👩‍💻
 
-I'm a self-taught software engineer who builds with React, and occasionally does back end work. ⚛ Currently doing front end work related to Kubernetes! ⎈
+I'm a self-taught software engineer who works with React and Golang. ⚛ Currently doing full stack work related to Kubernetes! ⎈
 
 #### 💃 When I'm not coding you can find me:
 
